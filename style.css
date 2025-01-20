@@ -1,0 +1,37 @@
+.Home{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height:100vh;
+    background-size:cover;
+    padding:15px;
+}
+.second{
+    background-color:#F5F5F5;
+    height:60vh;
+    background-size:cover;
+    padding:12px;
+}
+.card{
+    background-color:white;
+    height:35vh;
+    width:20vw;
+    margin:30px;
+    padding:15px;
+    border-color:#9E9E9E;
+    border-width:1px;
+    border-radius:8px;
+}
+.thrid{
+    background-color:white;
+    height:100vh;
+    background-size:cover;
+    padding:15px;
+}
+.img{
+    border-radius:8px;
+}
+.four{
+    background-color:white;
+    height:100vh;
+    background-size:cover;
+    padding:45px;
+}
